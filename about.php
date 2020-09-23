@@ -37,7 +37,7 @@
 </div>
 <div class="page-content">
     <div class="image-holder">
-        <img src="images/Team-foto-large.jpg" alt="" class="big-picture">
+        <img src="images/imgIndex/Team-foto-large.jpg" alt="" class="big-picture">
     </div>
     <div class="about-us">
         <h1 class="about-us__head">Over ons</h1>
