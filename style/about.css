@@ -41,24 +41,26 @@ body {
   padding: 0;
 }
 
+.image-holder {
+  width: 100%;
+  padding: 5% 0;
+  background-color: #315659;
+  margin-top: 170px;
+}
+.image-holder .big-picture {
+  width: 1699px;
+  height: 897px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  object-fit: cover;
+}
+
 .page-content {
   background-color: #3A3C45;
   width: 90%;
   margin-left: auto;
   margin-right: auto;
-}
-.page-content .image-holder {
-  padding: 5% 0;
-  background-color: #315659;
-  margin-top: 170px;
-}
-.page-content .big-picture {
-  width: 90%;
-  height: 787px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  object-fit: cover;
 }
 .page-content .about-us {
   padding: 15rem;
