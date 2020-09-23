@@ -20,16 +20,16 @@
             <a href="products.php" class="navigation-link">DIENSTEN</a>
         </div>
         <div class="navigation-logo">
-            <a href="">
+            <a href="index.html">
                 <img src="images/doorlopen.gif" alt="Logo" class="navigation-logo-image" id="loop"
                      onload="setTimeout(stopLoop, 1000)">
             </a>
         </div>
         <div class="navigation-button">
-            <a href="" class="navigation-link link-active">PORTFOLIO</a>
+            <a href="portfolio.php" class="navigation-link link-active">PORTFOLIO</a>
         </div>
         <div class="navigation-button">
-            <a href="" class="navigation-link">CONTACT</a>
+            <a href="contact.html" class="navigation-link">CONTACT</a>
         </div>
     </div>
 </div>
@@ -93,9 +93,9 @@
         <article class="footerItems artClassSec artClassSec2">
             <a class="footerItems" href="#">Links</a>
             <a class="footerItems2" href="http://firesofdestruction.nl/idp/online/index.html">Home</a>
-            <a class="footerItems2" href="#">Over ons</a>
-            <a class="footerItems2" href="#">Diensten</a>
-            <a class="footerItems2" href="#">Portfolio</a>
+            <a class="footerItems2" href="about.php">Over ons</a>
+            <a class="footerItems2" href="products.php">Diensten</a>
+            <a class="footerItems2" href="portfolio.php">Portfolio</a>
             <a class="footerItems2" href="http://firesofdestruction.nl/idp/online/contact.html">Contact</a>
         </article>
 
@@ -104,13 +104,13 @@
 
         <article class="footerItems artClassSec artClassSec3">
             <a class="footerItems" href="http://firesofdestruction.nl/idp/online/contact.html">Contact</a>
-            <a class="footerItems" href="#">luso.design@hotmail.com</a>
+            <a class="footerItems" href="mailto:luso.design@hotmail.com">luso.design@hotmail.com</a>
             <a class="footerItems" href="#">06 12 34 56 78</a>
 
             <div class="">
-                <a class="footerItemsImg" href=""><img src="./images/social/linkedin.png" alt="Linkedin"></a>
-                <a class="footerItemsImg" href=""><img src="./images/social/instagram.png" alt="Instagram"></a>
-                <a class="footerItemsImg" href=""><img src="./images/social/facebook.png" alt="Facebook"
+                <a class="footerItemsImg" href="https://www.linkedin.com/in/luso-design-8b70211b8/" target="_blank"><img src="./images/social/linkedin.png" alt="Linkedin"></a>
+                <a class="footerItemsImg" href="https://www.instagram.com/luso.design/?hl=nl" target="_blank"><img src="./images/social/instagram.png" alt="Instagram"></a>
+                <a class="footerItemsImg" href="https://www.facebook.com/luso.dongelponger.7" target="_blank"><img src="./images/social/facebook.png" alt="Facebook"
                                                        style="width: 15px"></a>
             </div>
             <a href="http://jigsaw.w3.org/css-validator/check/referer">
