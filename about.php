@@ -35,10 +35,10 @@
         </div>
     </div>
 </div>
+<div class="image-holder">
+    <img src="images/imgIndex/Team-foto-large.jpg" alt="" class="big-picture">
+</div>
 <div class="page-content">
-    <div class="image-holder">
-        <img src="images/imgIndex/Team-foto-large.jpg" alt="" class="big-picture">
-    </div>
     <div class="about-us">
         <h1 class="about-us__head">Over ons</h1>
         <p class="about-us__text">Dit is ons team, gemotiveerd om u een product te geven waar u het helemaal mee eens
