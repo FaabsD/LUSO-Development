@@ -6,13 +6,13 @@ html
   background-color: $background
 
 body
-  width: 90vw
+  width: 100vw
   margin: 0 auto
   padding: 0
 
 .page-content
   background-color: $background
-  width: 90vw
+  width: 90%
   margin-left: auto
   margin-right: auto
 
@@ -33,6 +33,7 @@ body
   display: grid
   grid-template-columns: repeat(3, minmax(min-content, 1fr))
   grid-gap: 4.5%
+  padding-bottom: 5rem
 
   .product-container
     text-align: center
@@ -70,6 +71,16 @@ body
       background-color: $main-light
       padding: 1rem 3rem
       border-radius: 2rem
+
       &:hover
         background-color: $link
+
+.kleur1
+  background-color: $main
+
+footer
+  .footerItems
+    a
+      text-decoration: none
+@import 'footerL'
 
