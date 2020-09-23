@@ -20,7 +20,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2db5ac64-f22b-44cb-977f-97ed40b6538e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/social/facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/social/instagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/social/linkedin.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.php" beforeDir="false" afterPath="$PROJECT_DIR$/about.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Mockup-Briefpapier.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/imgIndex/Mockup-Briefpapier.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Mockup-Flyer.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/imgIndex/Mockup-Flyer.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Mockup-Huisstijl.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/imgIndex/Mockup-Huisstijl.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Mockup-LOGO.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/imgIndex/Mockup-LOGO.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Mockup-POster-sam.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/imgIndex/Mockup-POster-sam.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Mockup-Poster.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/imgIndex/Mockup-Poster.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Mockup-Visitekaartje.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/imgIndex/Mockup-Visitekaartje.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Mockup-logo-ferdy.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/imgIndex/Mockup-logo-ferdy.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Mockup-poster-ferdy.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/imgIndex/Mockup-poster-ferdy.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Team-foto-large.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/imgIndex/Team-foto-large.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Team-foto.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/imgIndex/Team-foto.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/placeholder.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/imgIndex/placeholder.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio.php" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/_navbar.sass" beforeDir="false" afterPath="$PROJECT_DIR$/sass/_navbar.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/portfolio.sass" beforeDir="false" afterPath="$PROJECT_DIR$/sass/portfolio.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/portfolio.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/portfolio.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/portfolio.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/style/portfolio.css.map" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,14 +79,18 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/social" />
     <property name="list.type.of.created.stylesheet" value="Sass" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\LUSO-Development\images\imgIndex" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\LUSO-Development\images\social" />
       <recent name="C:\xampp\htdocs\LUSO-Development" />
       <recent name="C:\xampp\htdocs\LUSO-Development\images" />
     </key>
@@ -88,6 +113,7 @@
       <workItem from="1600621639091" duration="9802000" />
       <workItem from="1600674241584" duration="11872000" />
       <workItem from="1600764255719" duration="9483000" />
+      <workItem from="1600844329920" duration="7963000" />
     </task>
     <servers />
   </component>
