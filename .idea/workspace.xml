@@ -20,7 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2db5ac64-f22b-44cb-977f-97ed40b6538e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/products.php" beforeDir="false" afterPath="$PROJECT_DIR$/products.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/about.sass" beforeDir="false" afterPath="$PROJECT_DIR$/sass/about.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/portfolio.sass" beforeDir="false" afterPath="$PROJECT_DIR$/sass/portfolio.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/products.sass" beforeDir="false" afterPath="$PROJECT_DIR$/sass/products.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/portfolio.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/portfolio.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/portfolio.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/style/portfolio.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/products.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/products.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/products.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/style/products.css.map" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +100,7 @@
       <workItem from="1600674241584" duration="11872000" />
       <workItem from="1600764255719" duration="9483000" />
       <workItem from="1600844329920" duration="17839000" />
-      <workItem from="1600930715276" duration="130000" />
+      <workItem from="1600930715276" duration="1353000" />
     </task>
     <servers />
   </component>
