@@ -46,7 +46,7 @@ $statement = getProducts($connection);
                 <img src="images/imgIndex/<?php echo $product['image'] ?>" alt="" class="product-image">
                 <h2 class="product-name"><?php echo $product['product_name'] ?></h2>
                 <p class="product-description"><?php echo $product['description'] ?></p>
-                <a href="portfolio.php" class="product__more-button">Vraag aan</a>
+                <a href="contact.html" class="product__more-button">Vraag aan</a>
             </div>
 
         <?php endforeach; ?>
@@ -72,18 +72,18 @@ $statement = getProducts($connection);
 
         <article class="footerItems artClassSec artClassSec2">
             <a class="footerItems" href="#">Links</a>
-            <a class="footerItems2" href="http://firesofdestruction.nl/idp/online/index.html">Home</a>
+            <a class="footerItems2" href="index.html">Home</a>
             <a class="footerItems2" href="about.php">Over ons</a>
             <a class="footerItems2" href="products.php">Diensten</a>
             <a class="footerItems2" href="portfolio.php">Portfolio</a>
-            <a class="footerItems2" href="http://firesofdestruction.nl/idp/online/contact.html">Contact</a>
+            <a class="footerItems2" href="contact.html">Contact</a>
         </article>
 
         <p class="footerRuimte"></p>
 
 
         <article class="footerItems artClassSec artClassSec3">
-            <a class="footerItems" href="http://firesofdestruction.nl/idp/online/contact.html">Contact</a>
+            <a class="footerItems" href="contact.html">Contact</a>
             <a class="footerItems" href="mailto:luso.design@hotmail.com">luso.design@hotmail.com</a>
             <a class="footerItems" href="#">06 12 34 56 78</a>
 
