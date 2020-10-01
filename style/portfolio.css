@@ -82,7 +82,6 @@ body {
 }
 .page-content .work-container .work-item__right {
   grid-template-areas: "image ." "image head" "image text" "image .";
-  text-align: right;
 }
 .page-content .work-container .work-item .work-item-head {
   grid-area: head;
